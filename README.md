@@ -1,3 +1,7 @@
+---
+layout: post
+title: 
+---
 
 ## CV
 [.pdf](https://sites.google.com/site/marreguant/vita.pdf?attredirects=0)
