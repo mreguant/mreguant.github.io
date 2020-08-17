@@ -24,4 +24,4 @@ title: Home
  - [Grandfathering and the Endowment Effect: An Assessment in the Context of the Spanish National Allocation](http://web.mit.edu/ceepr/www/publications/workingpapers/2008-018.pdf), with A. Denny Ellerman, CEEPR WP-2008-018.
 
 ---
-<sup><sub>Using [Hyde Jekyll theme](https://github.com/poole/hyde).<sub><sup>
+<sup><sub>Built based on [Hyde Jekyll theme](https://github.com/poole/hyde).<sub><sup>
