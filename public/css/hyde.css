@@ -248,3 +248,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Northwestern */
+.theme-base-nu .sidebar {
+  background-color: #4E2A84;
+}
+.theme-base-nu .content a,
+.theme-base-nu .related-posts li a:hover {
+  color: #4E2A84;
+}
