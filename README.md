@@ -2,7 +2,7 @@
 ## CV
 
 
-## Publication
+## Publications
 
 
 ## Research
