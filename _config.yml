@@ -1,4 +1,13 @@
-theme: jekyll-theme-minimal
+# Dependencies
+highlighter:      rouge
 
 title:            Mar Reguant
 tagline:          'Research page'
+description:      'Northwestern University, Department of Economics'
+url:              https://mreguant.github.io
+baseurl:          /
+
+author:
+  name:           'Mar Reguant'
+
+paginate:         5
