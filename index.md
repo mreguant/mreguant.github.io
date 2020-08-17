@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-
 ## Publications
 - [Pass-Through of Emissions Costs in Electricity Markets](https://sites.google.com/site/marreguant/paper_passthrough_fabra_reguant.pdf?attredirects=0), with Natalia Fabra. *American Economic Review*, 2014, 104(9): 2872-2899. [Data and code (.zip)](https://sites.google.com/site/marreguant/20130186_data.zip?attredirects=0)
 - [Complementary Bidding Mechanisms and Startup Costs in Electricity Markets](https://sites.google.com/site/marreguant/mreguant_complex.pdf?attredirects=0). *Review of Economic Studies*, 2014, 81(4): 1708-1742. [Online appendix](https://sites.google.com/site/marreguant/mreguant_complex_appendix.pdf?attredirects=0). [Data and code (.zip)](https://www.dropbox.com/s/lyfzea1tx19ol64/Supplementary.zip?dl=0)
@@ -25,4 +24,4 @@ title: Home
  - [Grandfathering and the Endowment Effect: An Assessment in the Context of the Spanish National Allocation](http://web.mit.edu/ceepr/www/publications/workingpapers/2008-018.pdf), with A. Denny Ellerman, CEEPR WP-2008-018.
 
 ---
-Built using [Hyde Jekyll theme](https://github.com/poole/hyde).
+<sup><sub>Using [Hyde Jekyll theme](https://github.com/poole/hyde).<sub><sup>
