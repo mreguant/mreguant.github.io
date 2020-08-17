@@ -3,9 +3,6 @@ layout: default
 title: Home
 ---
 
-## CV
-[.pdf](https://sites.google.com/site/marreguant/vita.pdf?attredirects=0)
-
 ## Publications
 - [Pass-Through of Emissions Costs in Electricity Markets](https://sites.google.com/site/marreguant/paper_passthrough_fabra_reguant.pdf?attredirects=0), with Natalia Fabra. *American Economic Review*, 2014, 104(9): 2872-2899. [Data and code (.zip)](https://sites.google.com/site/marreguant/20130186_data.zip?attredirects=0)
 - [Complementary Bidding Mechanisms and Startup Costs in Electricity Markets](https://sites.google.com/site/marreguant/mreguant_complex.pdf?attredirects=0). *Review of Economic Studies*, 2014, 81(4): 1708-1742. [Online appendix](https://sites.google.com/site/marreguant/mreguant_complex_appendix.pdf?attredirects=0). [Data and code (.zip)](https://www.dropbox.com/s/lyfzea1tx19ol64/Supplementary.zip?dl=0)
@@ -26,3 +23,6 @@ title: Home
 - [Competencia en el Mercado Electrico Chileno](http://www.fne.gob.cl/wp-content/uploads/2014/01/informe_final_FNE_Enero13_2014.pdf), with Natalia Fabra and J.P. Montero. Report for the Fiscalia Nacional Economica de Chile (in Spanish), 2014.
  - [Measuring Leakage Risk](http://www.arb.ca.gov/cc/capandtrade/meetings/20160518/ucb-intl-leakage.pdf), with Meredith Fowlie and Stephen P. Ryan. Report for the California Air Resources Board, 2016.
  - [Grandfathering and the Endowment Effect: An Assessment in the Context of the Spanish National Allocation](http://web.mit.edu/ceepr/www/publications/workingpapers/2008-018.pdf), with A. Denny Ellerman, CEEPR WP-2008-018.
+
+---
+Built using [Hyde Jekyll theme](https://github.com/poole/hyde).
