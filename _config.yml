@@ -5,7 +5,7 @@ title:            Mar Reguant
 tagline:          'Research page'
 description:      'Northwestern University, Department of Economics'
 url:              https://mreguant.github.io
-baseurl:          https://mreguant.github.io
+baseurl:          /
 
 author:
   name:           'Mar Reguant'
