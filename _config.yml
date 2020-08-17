@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
 title:            Mar Reguant
 tagline:          'Research page'
