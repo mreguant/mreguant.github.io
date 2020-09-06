@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 ## Publications
+- [A Model of Search with Price Discrimination](https://mreguant.github.io/papers/manuscript_buyer_power_08_2020_REV_EER_FINAL-1.pdf), with Natalia Fabra, *accepted*, European Economic Review.
 - [Machine Learning from Schools about Energy Efficiency](<https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtYXJyZWd1YW50fGd4OjFlOTZlOWViYzI0YTg3NDA>), with Fiona Burlig, Chris Knittel, Dave Rapson and Catherine Wolfram, forthcoming, *Journal of the Association of Environmental and Resource Economics*. [Online Appendix](https://sites.google.com/site/marreguant/OnlineAppendix.pdf?attredirects=0&amp;d=1)
 - [The Short-run and Long-run Effects of Covid-19 on Energy and the Environment](https://doi.org/10.1016/j.joule.2020.06.010), with Kenneth T. Gillingham, Christopher R. Knittel, Jing Li, and Marten Ovaere. *Joule*, 4: 1-5, 2020. [Paper with complementary material](https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtYXJyZWd1YW50fGd4OjU0NTk0MTUxYzFhZTJmNDk)
 - [The Efficiency and Sectoral Distributional Implications of Large-Scale Renewable Policies](https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtYXJyZWd1YW50fGd4OjVhZjMzYWJhM2JlNWM3NDg), *Journal of the Association of Environmental and Resource Economics*, 2019, 6:S1, S129-S168. [Online appendix](https://sites.google.com/site/marreguant/reguant_redistribution_web_appendix.pdf?attredirects=0&amp;d=1)
@@ -15,7 +16,6 @@ title: Home
 
 ## Working papers and work in progress
 - [Bounding Outcomes in Counterfactual Analysis](<https://www.dropbox.com/s/ymp0gw1rh0yjoht/reguant_bounds.pdf?dl=0>)
-- "A Model of Search with Price Discrimination," with Natalia Fabra, R&R, European Economic Review.
 - "Mitigating Emissions Leakage in Incomplete Carbon Markets," with Meredith Fowlie, R&R, JAERE.
 - "The Internal and External Costs of Intermittency," with Tomás Wilner.
 - "Real-time Pricing as a Country Experiment," with Natalia Fabra, Dave Rapson and Jingyuan Wang.
