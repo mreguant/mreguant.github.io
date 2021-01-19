@@ -15,10 +15,11 @@ title: Home
 
 
 ## Working papers and work in progress
+- "Mitigating Emissions Leakage in Incomplete Carbon Markets," with Meredith Fowlie, conditionally accepted, JAERE.
+- "Border Carbon Adjustments When Carbon Intensity Varies Across Producers: Evidence from California," with Meredith Fowlie and Claire Petersen, forthcoming, AER Papers & Proceedings.
+- "Estimating the Elasticity to Real Time Pricing: Evidence from the Spanish Electricity Market," with Natalia Fabra, Dave Rapson and Jingyuan Wang, forthcoming, AER Papers & Proceedings.
 - [Bounding Outcomes in Counterfactual Analysis](<https://www.dropbox.com/s/ymp0gw1rh0yjoht/reguant_bounds.pdf?dl=0>)
-- "Mitigating Emissions Leakage in Incomplete Carbon Markets," with Meredith Fowlie, R&R, JAERE.
 - "The Internal and External Costs of Intermittency," with Tomás Wilner.
-- "Real-time Pricing as a Country Experiment," with Natalia Fabra, Dave Rapson and Jingyuan Wang.
 - "The Distributional Impacts of Real-Time Pricing," with Michael Cahana, Natalia Fabra and Jingyuan Wang.
 - "What is Price Discovery Achieving in the New Zealand Electricity Market?," with Estelle Cantillon and Stefan Bergheimer.
 - "Energy Transitions in Regulated Markets," with Gautam Gowrisankaran and Ashley Langer.
