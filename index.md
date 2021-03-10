@@ -12,7 +12,7 @@ title: Home
 
 
 ## Publications
-- "Mitigating Emissions Leakage in Incomplete Carbon Markets," with Meredith Fowlie, conditionally accepted, JAERE.
+- [Mitigating Emissions Leakage in Incomplete Carbon Markets](https://static1.squarespace.com/static/595af9e472af65691b788c27/t/5fa5b4b2bce9fd620f74cb23/1604695221135/AERE_manuscript.pdf), with Meredith Fowlie, conditionally accepted, JAERE. [Online Appendix](https://static1.squarespace.com/static/595af9e472af65691b788c27/t/5fa5b4bc62cc9b64015674b0/1604695233909/AERE_appendix.pdf)
 - "Border Carbon Adjustments When Carbon Intensity Varies Across Producers: Evidence from California," with Meredith Fowlie and Claire Petersen, forthcoming, AER Papers & Proceedings.
 - "Estimating the Elasticity to Real Time Pricing: Evidence from the Spanish Electricity Market," with Natalia Fabra, Dave Rapson and Jingyuan Wang, forthcoming, AER Papers & Proceedings.
 - [A Model of Search with Price Discrimination](https://mreguant.github.io/papers/manuscript_buyer_power_08_2020_REV_EER_FINAL-1.pdf), with Natalia Fabra, *accepted*, European Economic Review.
