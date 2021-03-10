@@ -2,7 +2,19 @@
 layout: default
 title: Home
 ---
+## Working papers and work in progress
+- [Bounding Outcomes in Counterfactual Analysis](<https://www.dropbox.com/s/ymp0gw1rh0yjoht/reguant_bounds.pdf?dl=0>)
+- "The Distributional Impacts of Real-Time Pricing," with Michael Cahana, Natalia Fabra and Jingyuan Wang.
+- "What is Price Discovery Achieving in the New Zealand Electricity Market?," with Estelle Cantillon and Stefan Bergheimer.
+- "Energy Transitions in Regulated Markets," with Gautam Gowrisankaran and Ashley Langer.
+- "Measuring the Impact of Wind Power in the Spanish Electricity Market," with Claire Petersen.
+- "Energy and Environmental Markets, Industrial Organization, and Regulation," chapter in preparation for the Handbook of Industrial Organization, with Ryan Kellogg.
+
+
 ## Publications
+- "Mitigating Emissions Leakage in Incomplete Carbon Markets," with Meredith Fowlie, conditionally accepted, JAERE.
+- "Border Carbon Adjustments When Carbon Intensity Varies Across Producers: Evidence from California," with Meredith Fowlie and Claire Petersen, forthcoming, AER Papers & Proceedings.
+- "Estimating the Elasticity to Real Time Pricing: Evidence from the Spanish Electricity Market," with Natalia Fabra, Dave Rapson and Jingyuan Wang, forthcoming, AER Papers & Proceedings.
 - [A Model of Search with Price Discrimination](https://mreguant.github.io/papers/manuscript_buyer_power_08_2020_REV_EER_FINAL-1.pdf), with Natalia Fabra, *accepted*, European Economic Review.
 - [Machine Learning from Schools about Energy Efficiency](<https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtYXJyZWd1YW50fGd4OjFlOTZlOWViYzI0YTg3NDA>), with Fiona Burlig, Chris Knittel, Dave Rapson and Catherine Wolfram, forthcoming, *Journal of the Association of Environmental and Resource Economics*. [Online Appendix](https://sites.google.com/site/marreguant/OnlineAppendix.pdf?attredirects=0&amp;d=1)
 - [The Short-run and Long-run Effects of Covid-19 on Energy and the Environment](https://doi.org/10.1016/j.joule.2020.06.010), with Kenneth T. Gillingham, Christopher R. Knittel, Jing Li, and Marten Ovaere. *Joule*, 4: 1-5, 2020. [Paper with complementary material](https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxtYXJyZWd1YW50fGd4OjU0NTk0MTUxYzFhZTJmNDk)
@@ -12,17 +24,6 @@ title: Home
 - [Market-Based Emissions Regulation and Industry Dynamics](https://sites.google.com/site/marreguant/fowlie_reguant_ryan.pdf?attredirects=0), with Meredith Fowlie and Stephen P. Ryan. *Journal of Political Economy*, 2016, 124(1): 249-302. [Online appendix](https://sites.google.com/site/marreguant/fowlie_reguant_ryan_online_app.pdf?attredirects=0). [Data and code](https://sites.google.com/site/marreguant/code_and_data.zip?attredirects=0)
 - [Complementary Bidding Mechanisms and Startup Costs in Electricity Markets](https://sites.google.com/site/marreguant/mreguant_complex.pdf?attredirects=0). *Review of Economic Studies*, 2014, 81(4): 1708-1742. [Online appendix](https://sites.google.com/site/marreguant/mreguant_complex_appendix.pdf?attredirects=0). [Data and code (.zip)](https://www.dropbox.com/s/lyfzea1tx19ol64/Supplementary.zip?dl=0)
 - [Pass-Through of Emissions Costs in Electricity Markets](https://sites.google.com/site/marreguant/paper_passthrough_fabra_reguant.pdf?attredirects=0), with Natalia Fabra. *American Economic Review*, 2014, 104(9): 2872-2899. [Data and code (.zip)](https://sites.google.com/site/marreguant/20130186_data.zip?attredirects=0)
-
-
-## Working papers and work in progress
-- "Mitigating Emissions Leakage in Incomplete Carbon Markets," with Meredith Fowlie, conditionally accepted, JAERE.
-- "Border Carbon Adjustments When Carbon Intensity Varies Across Producers: Evidence from California," with Meredith Fowlie and Claire Petersen, forthcoming, AER Papers & Proceedings.
-- "Estimating the Elasticity to Real Time Pricing: Evidence from the Spanish Electricity Market," with Natalia Fabra, Dave Rapson and Jingyuan Wang, forthcoming, AER Papers & Proceedings.
-- [Bounding Outcomes in Counterfactual Analysis](<https://www.dropbox.com/s/ymp0gw1rh0yjoht/reguant_bounds.pdf?dl=0>)
-- "The Internal and External Costs of Intermittency," with Tomás Wilner.
-- "The Distributional Impacts of Real-Time Pricing," with Michael Cahana, Natalia Fabra and Jingyuan Wang.
-- "What is Price Discovery Achieving in the New Zealand Electricity Market?," with Estelle Cantillon and Stefan Bergheimer.
-- "Energy Transitions in Regulated Markets," with Gautam Gowrisankaran and Ashley Langer.
 
 
 ## Policy work and others
