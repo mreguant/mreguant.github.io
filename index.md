@@ -27,6 +27,7 @@ title: Home
 
 
 ## Policy work and others
+- [Climate change: time to act](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2021-rapport-anglais-les_grands_defis_economiques-juin_1.pdf), with Christian Gollier, as part of the report "The major future economic challenges," by Olivier Blanchard and Jean Tirole
 - [Low oil prices during COVID-19 and the case for removing fuel subsidies](https://mreguant.github.io/papers/Removing-Fuel-Subsidies-2020-Policy-brief.pdf), with Joevas Asare, and Moussa Saab and Camila Saccheto. Policy brief, International Growth Center, 2020.
 - [Measuring Leakage Risk](http://www.arb.ca.gov/cc/capandtrade/meetings/20160518/ucb-intl-leakage.pdf), with Meredith Fowlie and Stephen P. Ryan. Report for the California Air Resources Board, 2016.
 - [Competencia en el Mercado Electrico Chileno](http://www.fne.gob.cl/wp-content/uploads/2014/01/informe_final_FNE_Enero13_2014.pdf), with Natalia Fabra and J.P. Montero. Report for the Fiscalia Nacional Economica de Chile (in Spanish), 2014.
