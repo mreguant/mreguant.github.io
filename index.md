@@ -4,7 +4,7 @@ title: Home
 ---
 ## Working papers and work in progress
 - [The Distributional Impacts of Real-Time Pricing](https://mreguant.github.io/papers/Distributional_Impacts_of_Real_Time_Pricing.pdf), with Michael Cahana, Natalia Fabra and Jingyuan Wang.
-- [Measuring the Impact of Wind Power in the Spanish Electricity Market](https://mreguant.github.io/papers/Measuring_the_Impact_of_Wind_Power.pdf), with Claire Petersen and Lola Segura.
+- [Wind Power and Intermittency: The Impact of Subsidy Design](https://mreguant.github.io/papers/Measuring_the_Impact_of_Wind_Power.pdf), with Claire Petersen and Lola Segura.
 - [Bounding Outcomes in Counterfactual Analysis](<https://www.dropbox.com/s/ymp0gw1rh0yjoht/reguant_bounds.pdf?dl=0>)
 - "The Value of Infrastructure and Market Integration: Evidence from Renewable Expansion in Chile," with Luis Gonzales and Koichiro Ito.
 - "What is Price Discovery Achieving in the New Zealand Electricity Market?," with Estelle Cantillon and Stefan Bergheimer.
