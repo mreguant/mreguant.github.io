@@ -11,7 +11,7 @@ title: Home
 - "Energy Transitions in Regulated Markets," with Gautam Gowrisankaran and Ashley Langer.
 
 ## Publications
-- [Energy and Environmental Markets, Industrial Organization, and Regulation](https://www.nber.org/papers/w29235), with Ryan Kellogg, chapter for the Handbook of Industrial Organization, forthcoming.
+- [Energy and Environmental Markets, Industrial Organization, and Regulation](https://www.nber.org/papers/w29235), with Ryan Kellogg, Handbook of Industrial Organization 5 (1), 615-742.
 - [Comment on: "Climate Change Uncertainty Spillover in the Macroeconomy"](https://www.nber.org/books-and-chapters/nber-macroeconomics-annual-2021-volume-36/comment-climate-change-uncertainty-spillover-macroeconomy-reguant), for the 36th Annual Conference on Macroeconomics, 2021.
 - [Mitigating Emissions Leakage in Incomplete Carbon Markets](https://static1.squarespace.com/static/595af9e472af65691b788c27/t/5fa5b4b2bce9fd620f74cb23/1604695221135/AERE_manuscript.pdf), with Meredith Fowlie, *Journal of the Association of Environmental and Resource Economics*, 2022, 9:2. [Online Appendix](https://static1.squarespace.com/static/595af9e472af65691b788c27/t/5fa5b4bc62cc9b64015674b0/1604695233909/AERE_appendix.pdf)
 - [Border Carbon Adjustments When Carbon Intensity Varies Across Producers: Evidence from California](https://www.aeaweb.org/articles?id=10.1257/pandp.20211073), with Meredith Fowlie and Claire Petersen, *AER Papers & Proceedings*, 2021, 111:401-405. [Online Appendix](https://www.aeaweb.org/content/file?id=14554)
