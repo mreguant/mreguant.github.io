@@ -5,14 +5,14 @@ title: Home
 ## Working papers and work in progress
 - [The Distributional Impacts of Real-Time Pricing](https://mreguant.github.io/papers/Distributional_Impacts_of_Real_Time_Pricing.pdf), with Michael Cahana, Natalia Fabra and Jingyuan Wang.
 - [Wind Power and Intermittency: The Impact of Subsidy Design](https://mreguant.github.io/papers/Measuring_the_Impact_of_Wind_Power.pdf), with Claire Petersen and Lola Segura.
-- [The Dynamic Impact of Market Integration: Evidence from Renewable Energy Expansion in Chile](https://mreguant.github.io/papers/Market_Integration_Gonzales_Ito_Reguant.pdf), with Luis Gonzales and Koichiro Ito.
+- [The Dynamic Impact of Market Integration: Evidence from Renewable Energy Expansion in Chile](https://mreguant.github.io/papers/Market_Integration_Gonzales_Ito_Reguant.pdf), with Luis Gonzales and Koichiro Ito, revise and resubmit at *Econometrica*.
 - [Bounding Outcomes in Counterfactual Analysis](<https://www.dropbox.com/s/ymp0gw1rh0yjoht/reguant_bounds.pdf?dl=0>)
 - "What is Price Discovery Achieving in the New Zealand Electricity Market?," with Estelle Cantillon and Stefan Bergheimer.
 - "Energy Transitions in Regulated Markets," with Gautam Gowrisankaran and Ashley Langer.
 
 ## Publications
-- [Smart Meters and Retail Competition: Trends and Challenges](https://www.aeaweb.org/articles/pdf/doi/10.1257/pandp.20221061), with Jacint Enrich, Ruoyi Li, and Alejandro Mizrahi
-- [Energy and Environmental Markets, Industrial Organization, and Regulation](https://www.nber.org/papers/w29235), with Ryan Kellogg, Handbook of Industrial Organization 5 (1), 615-742.
+- [Smart Meters and Retail Competition: Trends and Challenges](https://www.aeaweb.org/articles/pdf/doi/10.1257/pandp.20221061), with Jacint Enrich, Ruoyi Li, and Alejandro Mizrahi, *AER Papers & Proceedings*, 2022.
+- [Energy and Environmental Markets, Industrial Organization, and Regulation](https://www.nber.org/papers/w29235), with Ryan Kellogg, *Handbook of Industrial Organization* 5 (1), 615-742.
 - [Comment on: "Climate Change Uncertainty Spillover in the Macroeconomy"](https://www.nber.org/books-and-chapters/nber-macroeconomics-annual-2021-volume-36/comment-climate-change-uncertainty-spillover-macroeconomy-reguant), for the 36th Annual Conference on Macroeconomics, 2021.
 - [Mitigating Emissions Leakage in Incomplete Carbon Markets](https://static1.squarespace.com/static/595af9e472af65691b788c27/t/5fa5b4b2bce9fd620f74cb23/1604695221135/AERE_manuscript.pdf), with Meredith Fowlie, *Journal of the Association of Environmental and Resource Economics*, 2022, 9:2. [Online Appendix](https://static1.squarespace.com/static/595af9e472af65691b788c27/t/5fa5b4bc62cc9b64015674b0/1604695233909/AERE_appendix.pdf)
 - [Border Carbon Adjustments When Carbon Intensity Varies Across Producers: Evidence from California](https://www.aeaweb.org/articles?id=10.1257/pandp.20211073), with Meredith Fowlie and Claire Petersen, *AER Papers & Proceedings*, 2021, 111:401-405. [Online Appendix](https://www.aeaweb.org/content/file?id=14554)
