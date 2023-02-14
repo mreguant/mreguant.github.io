@@ -7,6 +7,7 @@ title: Home
 - [The Distributional Impacts of Real-Time Pricing](https://mreguant.github.io/papers/Distributional_Impacts_of_Real_Time_Pricing.pdf), with Michael Cahana, Natalia Fabra and Jingyuan Wang.
 - [Measuring the Impact of Wind Power and Intermittency](https://mreguant.github.io/papers/Measuring_the_Impact_of_Wind_Power.pdf), with Claire Petersen and Lola Segura.
 - [Bounding Outcomes in Counterfactual Analysis](<https://www.dropbox.com/s/ymp0gw1rh0yjoht/reguant_bounds.pdf?dl=0>)
+- [Measuring the Impact of Time-of-Use Pricing on Electricity Consumption: Evidence from Spain](https://mreguant.github.io/papers/Time_of_Use_Impacts_Enrich_Li_Mizrahi_Reguant.pdf)
 - "What is Price Discovery Achieving in the New Zealand Electricity Market?," with Estelle Cantillon and Stefan Bergheimer.
 - "Energy Transitions in Regulated Markets," with Gautam Gowrisankaran and Ashley Langer.
 
