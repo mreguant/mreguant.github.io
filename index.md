@@ -4,10 +4,10 @@ title: Home
 ---
 ## Working papers and work in progress
 - [The Dynamic Impact of Market Integration: Evidence from Renewable Energy Expansion in Chile](https://mreguant.github.io/papers/Market_Integration_Gonzales_Ito_Reguant.pdf), with Luis Gonzales and Koichiro Ito, revise and resubmit at *Econometrica*.
-- [The Distributional Impacts of Real-Time Pricing](https://mreguant.github.io/papers/Distributional_Impacts_of_Real_Time_Pricing.pdf), with Michael Cahana, Natalia Fabra and Jingyuan Wang.
-- [Measuring the Impact of Wind Power and Intermittency](https://mreguant.github.io/papers/Measuring_the_Impact_of_Wind_Power.pdf), with Claire Petersen and Lola Segura.
+- [The Distributional Impacts of Real-Time Pricing](https://mreguant.github.io/papers/Distributional_Impacts_of_Real_Time_Pricing.pdf), with Michael Cahana, Natalia Fabra and Jingyuan Wang, *submitted*.
+- [Measuring the Impact of Wind Power and Intermittency](https://mreguant.github.io/papers/Measuring_the_Impact_of_Wind_Power.pdf), with Claire Petersen and Lola Segura, *submitted*.
+- [Measuring the Impact of Time-of-Use Pricing on Electricity Consumption: Evidence from Spain](https://mreguant.github.io/papers/Time_of_Use_Impacts_Enrich_Li_Mizrahi_Reguant.pdf), with Jacint Enrich, Ruoyi Li, and Alejandro Mizrahi, *submitted*.
 - [Bounding Outcomes in Counterfactual Analysis](<https://www.dropbox.com/s/ymp0gw1rh0yjoht/reguant_bounds.pdf?dl=0>), with Francisco Pareschi
-- [Measuring the Impact of Time-of-Use Pricing on Electricity Consumption: Evidence from Spain](https://mreguant.github.io/papers/Time_of_Use_Impacts_Enrich_Li_Mizrahi_Reguant.pdf), with Jacint Enrich, Ruoyi Li, and Alejandro Mizrahi
 - "What is Price Discovery Achieving in the New Zealand Electricity Market?," with Estelle Cantillon and Stefan Bergheimer.
 - "Energy Transitions in Regulated Markets," with Gautam Gowrisankaran and Ashley Langer.
 
