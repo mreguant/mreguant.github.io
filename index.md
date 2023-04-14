@@ -9,7 +9,7 @@ title: Home
 4. [Measuring the Impact of Time-of-Use Pricing on Electricity Consumption: Evidence from Spain](https://mreguant.github.io/papers/Time_of_Use_Impacts_Enrich_Li_Mizrahi_Reguant.pdf), with Jacint Enrich, Ruoyi Li, and Alejandro Mizrahi, revise and resubmit at the *Journal of Environmental Economics and Management*.
 5. "Price and Quantity Discovery without Commitment," with Estelle Cantillon and Stefan Bergheimer, revise and resubmit at the *International Journal of Industrial Organization*.
 6. "The benefits and costs of information: Evidence from the New Zealand wholesale electricity market," with Estelle Cantillon and Stefan Bergheimer.
-7. [Bounding Outcomes in Counterfactual Analysis](<https://www.dropbox.com/s/ymp0gw1rh0yjoht/reguant_bounds.pdf?dl=0>), with Francisco Pareschi
+7. "Bounding Outcomes in Counterfactual Analysis," with Francisco Pareschi
 8. "Energy Transitions in Regulated Markets," with Gautam Gowrisankaran and Ashley Langer.
 
 ## Publications
