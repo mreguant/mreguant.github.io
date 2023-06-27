@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 ## Working papers and work in progress
-1. [The Dynamic Impact of Market Integration: Evidence from Renewable Energy Expansion in Chile](https://mreguant.github.io/papers/Market_Integration_Gonzales_Ito_Reguant.pdf), with Luis Gonzales and Koichiro Ito, revise and resubmit at *Econometrica*.
 2. [The Distributional Impacts of Real-Time Pricing](https://mreguant.github.io/papers/Distributional_Impacts_of_Real_Time_Pricing.pdf), with Michael Cahana, Natalia Fabra and Jingyuan Wang, *submitted*.
 3. [Measuring the Impact of Wind Power and Intermittency](https://mreguant.github.io/papers/Measuring_the_Impact_of_Wind_Power.pdf), with Claire Petersen and Lola Segura, revise and resubmit at *Energy Economics*.
 4. [Measuring the Impact of Time-of-Use Pricing on Electricity Consumption: Evidence from Spain](https://mreguant.github.io/papers/Time_of_Use_Impacts_Enrich_Li_Mizrahi_Reguant.pdf), with Jacint Enrich, Ruoyi Li, and Alejandro Mizrahi, revise and resubmit at the *Journal of Environmental Economics and Management*.
@@ -13,6 +12,7 @@ title: Home
 8. "Energy Transitions in Regulated Markets," with Gautam Gowrisankaran and Ashley Langer.
 
 ## Publications
+1. [The Investment Effects of Market Integration: Evidence from Renewable Energy Expansion in Chile](https://mreguant.github.io/papers/Market_Integration_Gonzales_Ito_Reguant.pdf), with Luis Gonzales and Koichiro Ito, accepted at *Econometrica*.
 1. [Smart Meters and Retail Competition: Trends and Challenges](https://www.aeaweb.org/articles/pdf/doi/10.1257/pandp.20221061), with Jacint Enrich, Ruoyi Li, and Alejandro Mizrahi, *AER Papers & Proceedings*, 112: 461–465,  2022.
 2. [Energy and Environmental Markets, Industrial Organization, and Regulation](https://www.nber.org/papers/w29235), with Ryan Kellogg, *Handbook of Industrial Organization*, 5 (1), 615-742.
 3. [Comment on: "Climate Change Uncertainty Spillover in the Macroeconomy"](https://www.nber.org/books-and-chapters/nber-macroeconomics-annual-2021-volume-36/comment-climate-change-uncertainty-spillover-macroeconomy-reguant), for the 36th NBER Annual Conference on Macroeconomics, 2021.
