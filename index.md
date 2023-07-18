@@ -6,12 +6,12 @@ title: Home
 2. [The Distributional Impacts of Real-Time Pricing](https://mreguant.github.io/papers/Distributional_Impacts_of_Real_Time_Pricing.pdf), with Michael Cahana, Natalia Fabra and Jingyuan Wang, *submitted*.
 3. [Measuring the Impact of Wind Power and Intermittency](https://mreguant.github.io/papers/Measuring_the_Impact_of_Wind_Power.pdf), with Claire Petersen and Lola Segura, revise and resubmit at *Energy Economics*.
 4. [Measuring the Impact of Time-of-Use Pricing on Electricity Consumption: Evidence from Spain](https://mreguant.github.io/papers/Time_of_Use_Impacts_Enrich_Li_Mizrahi_Reguant.pdf), with Jacint Enrich, Ruoyi Li, and Alejandro Mizrahi, revise and resubmit at the *Journal of Environmental Economics and Management*.
-5. [Price and Quantity Discovery without Commitment](https://cepr.org/publications/dp18189), with Estelle Cantillon and Stefan Bergheimer, revise and resubmit at the *International Journal of Industrial Organization*.
 6. "The benefits and costs of information: Evidence from the New Zealand wholesale electricity market," with Estelle Cantillon and Stefan Bergheimer.
 7. "Bounding Outcomes in Counterfactual Analysis," with Francisco Pareschi
 8. "Energy Transitions in Regulated Markets," with Gautam Gowrisankaran and Ashley Langer.
 
 ## Publications
+5. [Price and Quantity Discovery without Commitment](https://doi.org/10.1016/j.ijindorg.2023.102987), with Estelle Cantillon and Stefan Bergheimer, *International Journal of Industrial Organization*.
 1. [The Investment Effects of Market Integration: Evidence from Renewable Energy Expansion in Chile](https://mreguant.github.io/papers/Market_Integration_Gonzales_Ito_Reguant.pdf), with Luis Gonzales and Koichiro Ito, accepted at *Econometrica*.
 1. [Smart Meters and Retail Competition: Trends and Challenges](https://www.aeaweb.org/articles/pdf/doi/10.1257/pandp.20221061), with Jacint Enrich, Ruoyi Li, and Alejandro Mizrahi, *AER Papers & Proceedings*, 112: 461–465,  2022.
 2. [Energy and Environmental Markets, Industrial Organization, and Regulation](https://www.nber.org/papers/w29235), with Ryan Kellogg, *Handbook of Industrial Organization*, 5 (1), 615-742.
