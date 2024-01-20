@@ -29,7 +29,7 @@ title: Home
 18. [Market-Based Emissions Regulation and Industry Dynamics](https://mreguant.github.io/papers/fowlie_reguant_ryan_jpe.pdf?attredirects=0), with Meredith Fowlie and Stephen P. Ryan. *Journal of Political Economy*, 2016, 124(1): 249-302. [Online appendix](https://mreguant.github.io/papers/fowlie_reguant_ryan_online_app.pdf?attredirects=0). [Data and code](https://mreguant.github.io/papers/code_and_data.zip?attredirects=0)
 19. [Complementary Bidding Mechanisms and Startup Costs in Electricity Markets](https://mreguant.github.io/papers/mreguant_complex.pdf?attredirects=0). *Review of Economic Studies*, 2014, 81(4): 1708-1742. [Online appendix](https://mreguant.github.io/papers/mreguant_complex_appendix.pdf). [Data and code (.zip)](https://www.dropbox.com/s/lyfzea1tx19ol64/Supplementary.zip?dl=0)
 20. [Pass-Through of Emissions Costs in Electricity Markets](https://mreguant.github.io/papers/paper_passthrough_fabra_reguant.pdf?attredirects=0), with Natalia Fabra. *American Economic Review*, 2014, 104(9): 2872-2899. [Data and code (.zip)](https://mreguant.github.io/papers/20130186_data.zip)
-
+{: reversed="reversed"}
 
 ## Policy work and others
 1. [Climate change: time to act](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2021-rapport-anglais-les_grands_defis_economiques-juin_1.pdf), with Christian Gollier, as part of the report "The major future economic challenges," by Olivier Blanchard and Jean Tirole, 2021.
