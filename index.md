@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 ## Working papers and work in progress
-2. [The Distributional Impacts of Real-Time Pricing](https://mreguant.github.io/papers/Distributional_Impacts_of_Real_Time_Pricing.pdf), with Michael Cahana, Natalia Fabra and Jingyuan Wang, *submitted*.
-5. [Energy Transitions in Regulated Markets](https://mreguant.github.io/papers/energy_transitions_regulated_markets.pdf), with Gautam Gowrisankaran and Ashley Langer, *submitted*.
+2. [The Distributional Impacts of Real-Time Pricing](https://mreguant.github.io/papers/Distributional_Impacts_of_Real_Time_Pricing.pdf), with Michael Cahana, Natalia Fabra and Jingyuan Wang, R&R at *JEEA*.
+5. [Energy Transitions in Regulated Markets](https://mreguant.github.io/papers/energy_transitions_regulated_markets.pdf), with Gautam Gowrisankaran and Ashley Langer, R&R at *AER*.
 6. [Bounding Outcomes in Counterfactual Analysis](https://mreguant.github.io/papers/bounds_latest.pdf), with Francisco Pareschi
 7. "The benefits and costs of information: Evidence from the New Zealand wholesale electricity market," with Estelle Cantillon and Stefan Bergheimer.
 
