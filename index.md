@@ -3,11 +3,12 @@ layout: default
 title: Home
 ---
 ## Working papers and work in progress
-2. [The Distributional Impacts of Real-Time Pricing](https://mreguant.github.io/papers/Distributional_Impacts_of_Real_Time_Pricing.pdf), with Michael Cahana, Natalia Fabra and Jingyuan Wang, R&R at *JEEA*.
-3. [Energy Transitions in Regulated Markets](https://mreguant.github.io/papers/energy_transitions_regulated_markets.pdf), with Gautam Gowrisankaran and Ashley Langer, R&R at *AER*.
-4. [Smart Power Limits: Designing Shortage Mechanisms for Extreme Events](https://mreguant.github.io/papers/Rationing_Submission.pdf), with Mayra Wagner
+2. [The Distributional Impacts of Real-Time Pricing](https://mreguant.github.io/papers/Distributional_Impacts_of_Real_Time_Pricing.pdf), with Natalia Fabra and Jingyuan Wang, R&R at *JEEA*, resubmitted.
+3. [Energy Transitions in Regulated Markets](https://mreguant.github.io/papers/energy_transitions_regulated_markets.pdf), with Gautam Gowrisankaran and Ashley Langer, conditionally accepted at *AER*.
+4. [Smart Power Limits: Designing Shortage Mechanisms for Extreme Events](https://mreguant.github.io/papers/Rationing_Submission.pdf), with Mayra Wagner, R&R at the *Journal of Public Economics*
 5. "The benefits and costs of information: Evidence from the New Zealand wholesale electricity market," with Estelle Cantillon and Andrew Hinchberger.
-6. [Bounding Outcomes in Counterfactual Analysis](https://mreguant.github.io/papers/bounds_latest.pdf), with Francisco Pareschi
+6. "The Price Impacts of Renewable Power: A Tale of Two Sources," with David Brown, submitted.
+7. [Bounding Outcomes in Counterfactual Analysis](https://mreguant.github.io/papers/bounds_latest.pdf), with Francisco Pareschi
    
 ## Publications
 1. [Measuring the Impact of Wind Power and Intermittency](https://mreguant.github.io/papers/Measuring_the_Impact_of_Wind_Power.pdf), with Claire Petersen and Lola Segura, *Energy Economics*, Volume 129, January 2024, 107200.
