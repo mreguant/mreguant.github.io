@@ -257,3 +257,12 @@ a.sidebar-nav-item:focus {
 .theme-base-nu .related-posts li a:hover {
   color: #4e2a84;
 }
+
+/* BSE */
+.theme-base-bse .sidebar {
+  background-color: #00859b;
+}
+.theme-base-bse .content a,
+.theme-base-bse .related-posts li a:hover {
+  color: #00859b;
+}
