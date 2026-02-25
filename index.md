@@ -36,9 +36,9 @@ title: Home
 {: reversed="reversed"}
 
 ## Policy work and others
-1. [Renewables in Catalonia: Situation Analysis](http://127.0.0.1:4000/erc-enecml/assets/papers/Enrich_2023_acco.pdf) with Jacing Enrich and Claudia Serra-Sala, report for the Catalan Competition Authority (in Catalan), Dec 2023.
-1. [Distributional effects of the energy transition: Risks and opportunities for a just transformation](http://127.0.0.1:4000/erc-enecml/assets/papers/Enrich_2023_nota.pdf) with Jacing Enrich for Economic Note, Department of Economy and Finance, Catalan Government (in Catalan), 2023. 
-1. [Climate change: time to act](http://127.0.0.1:4000/erc-enecml/assets/papers/Gollier_2021.pdf), with Christian Gollier, as part of the report "The major future economic challenges," by Olivier Blanchard and Jean Tirole, 2021.
+1. [Renewables in Catalonia: Situation Analysis](https://mreguant.github.io/erc-enecml/assets/papers/Enrich_2023_acco.pdf) with Jacing Enrich and Claudia Serra-Sala, report for the Catalan Competition Authority (in Catalan), Dec 2023.
+1. [Distributional effects of the energy transition: Risks and opportunities for a just transformation](https://mreguant.github.io/erc-enecml/assets/papers/Enrich_2023_nota.pdf) with Jacing Enrich for Economic Note, Department of Economy and Finance, Catalan Government (in Catalan), 2023. 
+1. [Climate change: time to act](https://mreguant.github.io/erc-enecml/assets/papers/Gollier_2021.pdf), with Christian Gollier, as part of the report "The major future economic challenges," by Olivier Blanchard and Jean Tirole, 2021.
 2. [Low oil prices during COVID-19 and the case for removing fuel subsidies](https://mreguant.github.io/papers/Removing-Fuel-Subsidies-2020-Policy-brief.pdf), with Joevas Asare, and Moussa Saab and Camila Saccheto. Policy brief, International Growth Center, 2020.
 3. [Measuring Leakage Risk](http://www.arb.ca.gov/cc/capandtrade/meetings/20160518/ucb-intl-leakage.pdf), with Meredith Fowlie and Stephen P. Ryan. Report for the California Air Resources Board, 2016.
 4. [Competencia en el Mercado Electrico Chileno](http://www.fne.gob.cl/wp-content/uploads/2014/01/informe_final_FNE_Enero13_2014.pdf), with Natalia Fabra and J.P. Montero. Report for the Fiscalia Nacional Economica de Chile (in Spanish), 2014.
