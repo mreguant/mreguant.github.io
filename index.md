@@ -10,7 +10,7 @@ title: Home
 7. [Bounding Outcomes in Counterfactual Analysis](https://mreguant.github.io/papers/bounds_latest.pdf), with Francisco Pareschi
    
 ## Publications
-1. "The Price Impacts of Renewable Power: A Tale of Two Sources," with David Brown, *International Journal of Industrial Organization*, forthcoming, 2026.
+1. [The Price Impacts of Renewable Power: A Tale of Two Sources](https://mreguant.github.io/papers/wp2026-04.pdf), with David Brown, *International Journal of Industrial Organization*, forthcoming, 2026.
 1. [The role of industrial policy in the renewable energy sector](https://www.journals.uchicago.edu/doi/abs/10.1086/738542) with Todd D. Gerarden, Mar Reguant and Daniel Yi Xu. *Environmental and Energy Policy and the Economy*, Volume 7, January 2026, 97-148. 
 1. [Measuring the Impact of Wind Power and Intermittency](https://mreguant.github.io/papers/Measuring_the_Impact_of_Wind_Power.pdf), with Claire Petersen and Lola Segura, *Energy Economics*, Volume 129, January 2024, 107200.
 2. [The Energy Transition: A Balancing Act](https://nfabra.uc3m.es/wp-content/uploads/2023/09/Balancing_Act.pdf), with Natalia Fabra, *Resource and Energy Economics*, Volume 76, February 2024, 101408.
