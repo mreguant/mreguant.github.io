@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 ## Working papers and work in progress
-2. [The Distributional Impacts of Real-Time Pricing](https://mreguant.github.io/papers/Distributional_Impacts_of_Real_Time_Pricing.pdf), with Natalia Fabra and Jingyuan Wang, conditionally accepted at *JEEA*.
+2. [The Distributional Impacts of Time-Varying Electricity Pricing: A Novel Approach to Estimating Household Income](https://mreguant.github.io/papers/Distributional_Impacts_of_Real_Time_Pricing.pdf), with Natalia Fabra and Jingyuan Wang, conditionally accepted at *JEEA*.
 3. [Zero Energy Day: How Nationwide Blackouts Affect the Economy](https://www.nber.org/papers/w35066), with Luis E. Gonzales and Koichiro Ito,  conditionally accepted at *American Economic Review: Insights*.
 4. [Smart Power Limits: Designing Shortage Mechanisms for Extreme Events](https://mreguant.github.io/papers/Rationing_Submission.pdf), with Mayra Wagner, R&R at the *Journal of Public Economics*
 5. "The benefits and costs of information: Evidence from the New Zealand wholesale electricity market," with Estelle Cantillon and Andrew Hinchberger.
