@@ -3,12 +3,12 @@ layout: default
 title: Home
 ---
 ## Working papers and work in progress
-3. [Zero Energy Day: How Nationwide Blackouts Affect the Economy](https://www.nber.org/papers/w35066), with Luis E. Gonzales and Koichiro Ito,  conditionally accepted at *American Economic Review: Insights*.
 5. "The benefits and costs of information: Evidence from the New Zealand wholesale electricity market," with Estelle Cantillon and Andrew Hinchberger.
 7. [Bounding Outcomes in Counterfactual Analysis](https://mreguant.github.io/papers/bounds_latest.pdf), with Francisco Pareschi
 
    
 ## Publications
+1. [Zero Energy Day: How Nationwide Blackouts Affect the Economy](https://www.nber.org/papers/w35066), with Luis E. Gonzales and Koichiro Ito,  forthcoming, *American Economic Review: Insights*.
 2. [The Distributional Impacts of Time-Varying Electricity Pricing: A Novel Approach to Estimating Household Income](https://mreguant.github.io/papers/Distributional_Impacts_of_Real_Time_Pricing.pdf), with Natalia Fabra and Jingyuan Wang, Accepted at *JEEA*.
 4. [Smart Power Limits: Designing Shortage Mechanisms for Extreme Events](https://doi.org/10.1016/j.jpubeco.2026.105772), with Mayra Wagner, *Journal of Public Economics*, Volume 262, October 2026.
 5. [The Price Impacts of Renewable Power: A Tale of Two Sources](https://doi.org/10.1016/j.ijindorg.2026.103283), with David Brown, *International Journal of Industrial Organization*, Volume 108, October 2026.
